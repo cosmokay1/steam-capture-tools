@@ -65,10 +65,16 @@ recording or paid services run in CI.
 
 Extracted from original recording work in `cosmokay1/2K5Remade`, branch
 `codex/ray-traced-shadow-proof`, commit `4cea284`. Steam and its recording UI
-belong to Valve; no Steam source, game data, keys or video is included. The
-private repo has no public reuse license selected yet. This is experimental
+belong to Valve; no Steam source, game data, keys or video is included. Original code is licensed under the MIT License; see LICENSE. This is experimental
 unofficial tooling, not a supported Valve API.
 
 Renderer inspection belongs in `cosmokay1/xboxrecomp` (commit `484a568`), and
 application companion transport belongs in `cosmokay1/engine-sidecar`. Neither
 is a dependency of this recorder.
+
+## License and credit
+
+Created by [Cosmo Kay](https://github.com/cosmokay1). Copyright (c) 2026 Cosmo Kay.
+Licensed under the [MIT License](LICENSE). Preserve the copyright and permission
+notice in copies or substantial portions. Community issues and pull requests
+are welcome.
